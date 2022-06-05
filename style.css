@@ -65,7 +65,7 @@ body {
 	width: 20px;
 	height: 20px;
 	border: none;
-	background-image: url("./IMG/plus-icon.svg");
+	background-image: url("./img/plus-icon.svg");
 	background-repeat: no-repeat;
 	background-color: inherit;
 	background-position: center;
@@ -87,7 +87,7 @@ body {
 	position: absolute;
 	top: 12px;
 	right: 12px;
-	background-image: url("./IMG/close-icon.svg");
+	background-image: url("./img/close-icon.svg");
 	background-repeat: no-repeat;
 	background-color: inherit;
 	background-position: center;
